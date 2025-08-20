@@ -2,16 +2,21 @@
 
 En este proyecto se ha implementado un red neuronal (CNN) en Python que gracias al uso de la librería **PyTorch**. Para poder entrenar el modelo se han usado dos tipos de imágenes divididos en carpetas.
 
+##Índice
+*[Estructura del proyecto](#Estructura del proyecto)
+*[Instrucciones](#instrucciones)
+*[Código](#código)
+
 ## Estructura del proyecto 
 
-```Id_Imagen/
+Id_Imagen/
 │── data/
 │   └── train/
 │       ├── cats/
 │       └── dogs/
 │── src/
 │   └── app.py
-│── modelo.pth```
+│── modelo.pth
 
 ## Instrucciones de uso 
 
