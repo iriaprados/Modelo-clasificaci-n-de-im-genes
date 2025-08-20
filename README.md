@@ -5,6 +5,8 @@ En este proyecto se ha implementado un red neuronal (CNN) en Python que gracias 
 ## Índice
  * [Estructura del proyecto](#Estructura-del-proyecto)
  * [Instrucciones de uso](#Instrucciones-de-uso)
+ * [Resumen del código](#Resumen-del-código)
+
 
 ## Estructura del proyecto 
 
