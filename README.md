@@ -10,13 +10,13 @@ En este proyecto se ha implementado un red neuronal (CNN) en Python que gracias 
 
 ## Estructura del proyecto 
 
-Id_Imagen/
-│── data/
-│   └── train/
-│       ├── cats/
-│       └── dogs/
-│── src/
-│   └── app.py
+Id_Imagen/\
+│── data/\
+│   └── train/\
+│       ├── cats/\
+│       └── dogs/\
+│── src/\
+│   └── app.py\
 │── modelo.pth
 
 ## Instrucciones de uso 
