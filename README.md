@@ -6,12 +6,12 @@ En este proyecto se ha implementado un red neuronal (CNN) en Python que gracias 
 
 Id_Imagen/
 │── data/
-│ └── train/
-│ ├── cats/
-│ └── dogs/
+│   └── train/
+│       ├── cats/
+│       └── dogs/
 │── src/
-│ └── app.py
-│ └── modelo.pth
+│   └── app.py
+│── modelo.pth
 
 ## Instrucciones de uso 
 
